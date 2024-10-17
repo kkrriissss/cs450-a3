@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.plot-container {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #f0f0f0; 
+}
